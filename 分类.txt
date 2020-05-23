@@ -1,0 +1,34 @@
+从封装变化角度对模式分类
+
+组件协作：
+    Template Method 模块方法
+    Strategy 策略模式
+    Observer / Event 观察者模式
+单一职责：
+    Decorator
+    Bridge
+对象创建：
+    Factory Method
+    Abstract Factory
+    Prototype
+    Builder
+对象性能：
+    Singleton
+    Flyweight
+接口隔离：
+    Facade
+    Proxy
+    Adapter
+    Mediator
+状态变化：
+    State
+    Memento
+数据结构;
+    Composite
+    Iterator
+    Chain of Responsibility
+行为变化：
+    Command
+    Visitor
+领域问题：
+    Interpreter
